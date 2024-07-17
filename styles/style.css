@@ -1,0 +1,15 @@
+*{
+    background-color: bisque;
+}
+    h1, p{
+    text-align: center;
+   
+}
+a{
+  padding: 10px 20px;
+font-size: 15px;
+color: rgb(75, 33, 3);
+}
+nav{
+    text-align: center;
+}
